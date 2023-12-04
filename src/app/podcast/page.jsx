@@ -8,6 +8,7 @@ const Podcast = () => {
             <Navbar />
             <div className=" bg-white items-center align-middle ">
                 BE.LIVE.DOIT
+                ok
             </div>
         </div>
 
