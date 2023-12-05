@@ -69,6 +69,28 @@ module.exports = {
       animation: {
         "accordion-down": "accordion-down 0.2s ease-out",
         "accordion-up": "accordion-up 0.2s ease-out",
+        "scroll":"scroll 10s linear infinite",
+        "scroll2":"scroll 10s linear infinite"
+        
+      },
+      keyframes:{
+        scroll:{
+          '0%':{
+            transform:'translateX(0)'
+          },
+          '100%':{
+            transform:'translate(calc(-250px * 5))'
+          }
+        },
+        scroll2:{
+          '0%':{
+            transform:'translateX(0)'
+          },
+          '100%':{
+            transform:'translate(calc(-250px * 5))'
+          }
+        }
+
       },
     },
   },
