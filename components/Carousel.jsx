@@ -4,8 +4,8 @@ function Carousel() {
   return (
     <div>
         <div className="wrapper1 flex items-center justify-center h-[95vh]">
-            <div className="slider h-[200px] overflow-hidden relative w-[1000%] m-auto">
-                <div className="slide-track animate-[scroll_20s_linear_infinite] flex w-[calc(250px_*_14)]">
+            <div className="slider h-[100px] overflow-hidden relative w-[100%] m-auto">
+                <div className="slide-track animate-[scroll_20s_linear_infinite] flex w-[calc(250px*14)]">
                     <div class="animate-ping slide h-[100px] w-[160px]">
                         <img src="public\prac-img\img1.jpeg" alt="" />
                     </div>
