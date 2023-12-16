@@ -5,7 +5,7 @@ function Carousel2() {
     <div>
       <div className="wrapper1 flex items-center justify-center h-[95vh]">
         <div className="slider h-[200px] overflow-hidden relative w-[1000%] m-auto">
-          <div className="slide-track animate-[scroll_10s_linear_infinite] animate-[scroll2_10s_linear_infinite] flex w-[calc(250px_*_14)]">
+          <div className="slide-track animate-[scroll2_10s_linear_infinite] flex w-[calc(250px_*_14)]">
             <div class="slide h-[100px] w-[160px]">
               <img src="public\prac-img\img1.jpeg" alt="" />
             </div>
