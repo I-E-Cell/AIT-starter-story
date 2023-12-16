@@ -1,11 +1,9 @@
 import React from 'react'
+import TimeLine from '../../../components/TimeLine'
 
 function Blogs() {
   return (
     <div>
-      <h1>
-        hi from blogs
-      </h1>
     </div>
   )
 }

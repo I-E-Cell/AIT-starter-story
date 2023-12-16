@@ -1,11 +1,10 @@
 import React from 'react'
+import TimeLine from '../../../components/TimeLine'
 
 function Interview() {
   return (
     <div>
-      <h1>
-        hi from interview
-      </h1>
+      <TimeLine/>
     </div>
   )
 }
