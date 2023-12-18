@@ -4,7 +4,6 @@ import Carousel from "../../../components/Carousel";
 import TimeLineFinal from "../../../components/TimeLine/TimeLineFinal";
 import Footer from "../../../components/Footer";
 
-
 function Home() {
   return (
     <div>
